@@ -310,10 +310,10 @@ simulation_time = ${fparse 10*86400} # 1000 hours
   []
   [uz_total]
     type = ParsedFunction
-    value = '-22229.1*z'
+    value = '22229.1*z'
   []
   [ux_total]
     type = ParsedFunction
-    value = '-15560.4*z'
+    value = '15560.4*z'
   []
 []
